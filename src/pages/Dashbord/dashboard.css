@@ -1,0 +1,13 @@
+.sidenav {
+  background-color: #382a2a !important;
+  color: white;
+  height: 100vh;
+}
+.col {
+  padding: 0px !important;
+  
+}
+
+.col-3 {
+  padding: 0px 0px !important;
+}

@@ -1,0 +1,29 @@
+.asidebar {
+}
+.estore h5 {
+  padding: 0px 5px;
+  font-size: large;
+  border-bottom: 1px solid white;
+  padding-top: 2px;
+  padding-bottom: 5px;
+}
+.drop-menu {
+  display: none;
+  transition: all 5s;
+}
+.drop-menu.active {
+  display: block;
+}
+
+
+#dashboard{
+  padding: 10px;
+}
+
+button{
+  user-select: all;
+  background-color: #382a2a;
+  color: white;
+  border-style: none;
+  
+}
